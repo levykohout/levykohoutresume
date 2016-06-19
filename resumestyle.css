@@ -1,8 +1,9 @@
 body{ 
   font-family: Times, Helvetica;
-  
+  }
+hgroup {
+  text-align:center;
 }
-
 #page-wrap {
   width:800px;
   margin: 0 auto;
