@@ -1,5 +1,6 @@
 body{ 
   font-family: Times, Helvetica;
+  background: linear-gradient(white,black); 
   }
 hgroup {
   text-align:center;
