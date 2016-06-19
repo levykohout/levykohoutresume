@@ -20,7 +20,7 @@ h2 {
 
 #myPic {
   position:relative;
-  top:-2750px;
+  top:-2650px;
   left:700px;
-  transform: rotate(30deg);
+  transform: rotate(20deg);
 }
