@@ -19,8 +19,9 @@ h2 {
 }
 
 #myPic {
-    position:relative;
+  position:relative;
   top:-2750px;
   left:700px;
+  rotate:15deg;
   border:10px #fff;
 }
