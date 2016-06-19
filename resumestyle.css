@@ -1,6 +1,6 @@
 body{ 
   font-family: Times, Helvetica;
- background-color:rgb(232,239,245);
+ background-image:("background.png");
   }
 hgroup {
   text-align:center;
