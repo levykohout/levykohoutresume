@@ -3,3 +3,8 @@ body{
   width: 70%;
   position: center;
 }
+
+#page-wrap {
+  width:80%;
+  margin: 0 auto;
+}
