@@ -1,7 +1,7 @@
 body{ 
   font-family: Times, Helvetica;
- background-image:url("background.png");
- opacity:0.5;
+ background-image:url("background.png"),opacity:0.5;
+
   }
 hgroup {
   text-align:center;
