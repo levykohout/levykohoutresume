@@ -19,7 +19,7 @@ h2 {
 #myPic {
   width:160px;
   height:160px;
-  position:absolute;
+  position:relative;
   top:150px;
   right:150px;
 }
