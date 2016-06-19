@@ -23,6 +23,6 @@ h2 {
   max-width:50px;
   max-height:auto;
   position:relative;
-  top:150px;
-  right:150px;
+  top:0px;
+  right:0px;
 }
