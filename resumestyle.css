@@ -22,6 +22,5 @@ h2 {
   position:relative;
   top:-2750px;
   left:700px;
-  rotate:15deg;
-  border:10px #fff;
+  transform: rotate(30deg);
 }
