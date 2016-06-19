@@ -19,10 +19,8 @@ h2 {
 }
 
 #myPic {
-  border-radius:8px;
-  max-width:50px;
-  max-height:auto;
-  position:relative;
+    position:relative;
   top:-250px;
   left:650px;
+  border:10px #fff;
 }
