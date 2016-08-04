@@ -2,7 +2,7 @@ body {
 background-color: Aliceblue;
 font-family:"Times New Roman", "courier new";
 }
-div{
+div {
   width:500px;
   border: 5px solid blue;
 }
