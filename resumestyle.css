@@ -25,10 +25,10 @@ main {
 
 #mypic {
   float:right;
-  display:inline;
+  /* display:inline;
   position:relative;
   right:10px;
-  top:-1850px;
+  top:-1850px;*/
   width:160px;
   border: 5px solid black;
   }
