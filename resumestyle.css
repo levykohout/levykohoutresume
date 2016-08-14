@@ -22,7 +22,7 @@ main {
   margin: 0 auto;
 }
 
-#myPic {
+img {
   position:relative;
   top:-2780px;
   left:680px;
