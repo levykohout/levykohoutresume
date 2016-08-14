@@ -23,11 +23,7 @@ main {
 }
 
 header img {
-  display:inline-block;
-  position:relative;
-  bottom:100px;
-  left:200px;
-  transform: rotate(0deg);
+  display:inline;
   
   }
 
