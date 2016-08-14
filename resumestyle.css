@@ -24,6 +24,7 @@ main {
 }
 
 #mypic {
+  float:right;
   display:inline;
   position:relative;
   right:10px;
