@@ -8,7 +8,7 @@ body{
 
   }
 header {
- text-align:center bottom;
+ text-align:center;
 
 }
 
@@ -24,7 +24,7 @@ h3 {
 }
 main, header {
   width:800px;
-  margin: 50px auto;
+  margin: 0 auto;
   clear:both;
 }
 
