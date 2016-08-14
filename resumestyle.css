@@ -25,6 +25,7 @@ h3 {
 main, header {
   width:800px;
   margin: 50px auto;
+  clear:both;
 }
 
 #my-pic {
