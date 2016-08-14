@@ -12,8 +12,9 @@ header {
 
 }
 
-#myAddress{
+#my-contact{
   font-size:0.75rem;
+  
 }
 h2 {
   text-align:center;
@@ -23,7 +24,7 @@ main {
   margin: 0 auto;
 }
 
-#mypic {
+#my-pic {
   float:right;
   position: relative;
   top:0;
