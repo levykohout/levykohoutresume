@@ -28,7 +28,7 @@ main, header {
 }
 
 #my-pic {
-  float: left;
+  position:left;
   width:145px;
   border: 5px solid white;
   margin: 10px 10px;
