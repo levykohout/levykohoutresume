@@ -21,7 +21,7 @@ main {
   margin: 0 auto;
 }
 
-header img {
+#mypic {
   position:relative;
   left:0;
   bottom:30px;
