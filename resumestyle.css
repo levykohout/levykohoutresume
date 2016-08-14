@@ -22,7 +22,7 @@ h2 {
 h3 {
   text-decoration:underline;
 }
-main, header {
+main {
   width:800px;
   margin: 0 auto;
   clear:both;
