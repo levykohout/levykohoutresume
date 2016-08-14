@@ -25,10 +25,9 @@ main {
 
 #mypic {
   float:right;
-  /* display:inline;
-  position:relative;
-  right:10px;
-  top:-1850px;*/
+  position: relative;
+  top:0;
+  left:0;
   width:160px;
   border: 5px solid black;
   }
