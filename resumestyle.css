@@ -19,6 +19,9 @@ header {
 h2 {
   text-align:center;
 }
+h3 {
+  text-decoration:underline;
+}
 main {
   width:80%;
   margin: 0 auto;
