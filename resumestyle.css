@@ -23,7 +23,7 @@ main {
 }
 
 header img {
-  display:inline;
+  display:inline-block;
   
   }
 
