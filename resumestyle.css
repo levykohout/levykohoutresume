@@ -8,10 +8,9 @@ body{
 
   }
 header {
-  display:inline;
+  text-align:center;
 }
 #myAddress{
-  text-align:center;
   font-size:0.75rem;
 }
 h2 {
@@ -23,7 +22,9 @@ main {
 }
 
 header img {
-  display:inline-block;
+  position:relative;
+  left:0;
+  bottom:30px;
   
   }
 
