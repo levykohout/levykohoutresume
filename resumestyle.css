@@ -23,10 +23,10 @@ main {
 }
 
 img {
-  display:inline;
+  display:inline-block;
   position:relative;
   bottom:100px;
-  left:680px;
+  left:0px;
   transform: rotate(0deg);
   
   }
