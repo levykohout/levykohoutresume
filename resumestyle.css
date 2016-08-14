@@ -8,7 +8,7 @@ body{
 
   }
 header {
-  display:inline;
+ text-align:center;
 }
 header p {
   display:inline;
