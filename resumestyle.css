@@ -23,6 +23,7 @@ main {
 }
 
 img {
+  display:inline;
   position:relative;
   bottom:100px;
   left:680px;
