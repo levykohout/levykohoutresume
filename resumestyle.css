@@ -9,11 +9,9 @@ main{
   }
 header {
  text-align:center;
- display: inline-block;
+ display: inline;
 }
-header p {
-  display:inline;
-}
+
 #myAddress{
   font-size:0.75rem;
 }
