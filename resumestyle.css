@@ -25,11 +25,10 @@ h3 {
 main, header {
   width:700px;
   margin: 0 auto;
-  overflow:scroll;
 }
 
 #my-pic {
-  float: left;
+  float: right;
   width:145px;
   border: 5px solid black;
   }
