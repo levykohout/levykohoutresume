@@ -9,7 +9,7 @@ body{
   }
 header {
  text-align:center;
- display: inline;
+
 }
 
 #myAddress{
@@ -27,7 +27,7 @@ main {
   display:inline;
   position:relative;
   left:10px;
-  top: -600px;
+  top: -400px;
   width:160px;
   border: 5px solid black;
   }
