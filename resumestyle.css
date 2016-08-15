@@ -9,8 +9,6 @@ body{
   }
 header {
   padding: 15px;
-  width: 800px;
-  margin:0 auto;
 }
 
 #my-contact{
@@ -20,9 +18,13 @@ header {
 h3 {
   text-decoration:underline;
 }
-main {
+main, header {
   width:800px;
   margin: 0 auto;
+  border: 3px solid white;
+  border-radius: 5px 5px 5px 5px;
+}
+main {
   clear:both;
 }
 
