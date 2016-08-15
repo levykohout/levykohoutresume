@@ -31,7 +31,7 @@ main {
   float:left;
   width:145px;
   border: 5px solid white;
-  margin: 0 10px 10px 0;
+  margin: 0 10px 10px 10px;
   }
 
 footer {
