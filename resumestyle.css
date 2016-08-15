@@ -10,7 +10,9 @@ body{
 
 #my-contact{
   font-size:0.75rem;
-  
+  }
+h2 {
+  text-align:center;
 }
 h3 {
   text-decoration:underline;
