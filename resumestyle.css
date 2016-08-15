@@ -35,6 +35,7 @@ main {
   border: 5px solid white;
   margin: 0 10px 10px 10px;
   border-radius:3px 3px 3px 3px;
+  box-shadow: 1px 2px 2px #000;
   }
 
 footer {
