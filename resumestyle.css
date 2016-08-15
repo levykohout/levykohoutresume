@@ -7,9 +7,6 @@ body{
  background-color: #cccccc;
 
   }
-header {
-  padding: 15px;
-}
 
 #my-contact{
   font-size:0.75rem;
@@ -21,8 +18,9 @@ h3 {
 main, header {
   width:800px;
   margin: 0 auto;
-  border: 3px solid white;
+  border: 1px solid white;
   border-radius: 5px 5px 5px 5px;
+  padding:10px;
 }
 main {
   clear:both;
